@@ -84,7 +84,7 @@ During the project, we faced several challenges:
 ![Pie Chart](<img width="438" alt="Screenshot 2023-08-07 at 4 07 49 PM" src="https://github.com/meetg94/air-quality-kafka-elastic/assets/86708110/1d059710-1e23-4a2c-967c-cffdcc657b7a">)
 *Pie chart showcasing average readings by sensor.*
 
-![Heat Map](<img width="929" alt="Screenshot 2023-08-07 at 4 08 07 PM" src="https://github.com/meetg94/air-quality-kafka-elastic/assets/86708110/5619e5ee-805b-4a6f-b507-5ce428af1af2">)
+![Heat Map]("https://github.com/meetg94/air-quality-kafka-elastic/assets/86708110/5619e5ee-805b-4a6f-b507-5ce428af1af2")
 *Heat map of CO2 concentrations over the past 24 hours.*
 
 ## Conclusion
