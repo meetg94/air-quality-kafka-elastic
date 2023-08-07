@@ -77,15 +77,16 @@ During the project, we faced several challenges:
    - **Solution**: Adjusted the time range in Kibana to show recent data.
 
 ## Screenshots
-
-![Line Chart](<img width="937" alt="Screenshot 2023-08-07 at 4 00 35 PM" src="https://github.com/meetg94/air-quality-kafka-elastic/assets/86708110/333653f2-954f-4967-b9b8-255430a25fbe">)
+<img width="937" alt="Screenshot 2023-08-07 at 4 00 35 PM" src="https://github.com/meetg94/air-quality-kafka-elastic/assets/86708110/4cd3d8e3-8de5-4d6e-849c-77c93eb2ef87">
+![Line Chart](path_to_line_chart_screenshot.png)
 *Line chart of PM2.5, PM10, and CO2 readings over time.*
 
-![Pie Chart](<img width="438" alt="Screenshot 2023-08-07 at 4 07 49 PM" src="https://github.com/meetg94/air-quality-kafka-elastic/assets/86708110/1d059710-1e23-4a2c-967c-cffdcc657b7a">)
+![Pie Chart](path_to_pie_chart_screenshot.png)
 *Pie chart showcasing average readings by sensor.*
 
-![Heat Map]("https://github.com/meetg94/air-quality-kafka-elastic/assets/86708110/5619e5ee-805b-4a6f-b507-5ce428af1af2")
+![Heat Map](path_to_heat_map_screenshot.png)
 *Heat map of CO2 concentrations over the past 24 hours.*
+
 
 ## Conclusion
 
